@@ -2,7 +2,7 @@
 An Analysis of 2015 Hospital Discharge Data
 
 
-To asses cost of care for hosptitals in New Hampshire, expense related metrics were created through summary and descriptive statistics for 
+To asses cost of care for hospitals in New Hampshire, expense related metrics were created through summary and descriptive statistics for 
 Inpatient and Outpatient Hospital Discharge Data.  To create a schema that compares hospitals that are similar, data was gathered from the 
 American Hospital Directory (AHD) website ("https://www.ahd.com).  
 

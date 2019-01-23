@@ -10,14 +10,11 @@ The AHD provides data on over 7000 hospitals int he United States including key 
 and financial information.  Information including Available Beds, Gross Patient Revenue, Total Revenue, Total Number of Discharges and Type
 of Facility was compiled for each NH hospital.  A correlation matrix was calculated to identify how correlated te hospital attributes were.
 Highly correlated attributes were dropped, and the following criteria were used to identify which hospitals are similar to each other 
-based on the above attributes:
+based on the following attributes:
 
 Available Beds, Total Revenue, Net Income, and Type of Facility (Short Term Acute Care or Critical Access).  
 
-K-Means Cluster Analysis was completed.  K-Means Clustering is an unsupervised learning technique that clusters data points based on 
-similarities.  K represents the number of clusters, that is determined prior to running the algorithm.  
-For each cluster, the average value is computed for each of the variables, which is referred to as the cluster centers.  
-A K of 3 was chosen, which will cluster the 26 hospitals into three distinct groups.   
+K-Means Cluster Analysis was completed.    A K of 3 was chosen, which will cluster the 26 hospitals into three distinct groups.   
 
 
 New Hampshire Hospital Discharge Data (HDD) was used for the analysis.  HDDcontains inpatient and outpatient hospital discharge data 
